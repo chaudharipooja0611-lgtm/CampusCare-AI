@@ -1,0 +1,11 @@
+node_modules/
+dist/
+__pycache__/
+*.pyc
+.env
+backend/uploads/*
+!backend/uploads/.gitkeep
+backend/ml/models/*
+!backend/ml/models/.gitkeep
+venv/
+.venv/
